@@ -43,6 +43,16 @@ experience:
     date_start: '2020-09-14'
     date_end: '2022-09-30'
     description: Conduct research on neural network quantization and AutoML. 
+  
+  
+  - title: Business Intelligence Analyst
+    company: Synced
+    company_url: https://syncedreview.com/
+    company_logo: 
+    location: Toronto, Ontario, Canada
+    date_start: '2020-05-01'
+    date_end: '2022-08-30'
+    description: Create reports for analyzing trends in AI technology development. 
 
 design:
   columns: '2'
