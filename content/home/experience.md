@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Student Researcher
+    company: CleverHans Lab
+    company_url: https://cleverhans-lab.github.io/
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Toronto, Ontario, Canada
+    date_start: '2021-05-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Complete undergraduate thesis with Prof. Nicolas Papernot
+        * Collaborate with lab members on Machine Learning Security reseach
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Machine Learning Research Engineer
+    company: Qualcomm
+    company_url: https://www.qualcomm.com/
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Markham, Ontario, Canada
+    date_start: '2020-09-14'
+    date_end: '2022-09-30'
+    description: Conduct research on neural network quantization and AutoML. 
 
 design:
   columns: '2'
