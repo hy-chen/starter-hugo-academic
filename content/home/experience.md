@@ -25,7 +25,7 @@ experience:
   - title: Student Researcher
     company: CleverHans Lab
     company_url: https://cleverhans-lab.github.io/
-    company_logo: org-gc
+    company_logo: 
     location: Toronto, Ontario, Canada
     date_start: '2021-05-01'
     date_end: ''
@@ -38,7 +38,7 @@ experience:
   - title: Machine Learning Research Engineer
     company: Qualcomm
     company_url: https://www.qualcomm.com/
-    company_logo: org-x
+    company_logo: 
     location: Markham, Ontario, Canada
     date_start: '2020-09-14'
     date_end: '2022-09-30'
