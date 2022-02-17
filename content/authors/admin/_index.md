@@ -35,4 +35,4 @@ Hongyu Chen is a graduating student of machine intelligence major at University 
 
 Last Updated: Feb 17 2022
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}} (Last Updated Nov 2021) .
