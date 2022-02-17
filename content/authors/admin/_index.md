@@ -31,6 +31,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hongyu Chen is a graduating student of machine intelligence major at University of Toronto. Her research interests include deep learning, model compression and generative modelling. She works under supervision of Prof. Nicolas Papernot at Vector Institute and University of Toronto. 
+Hongyu Chen is a graduating student of machine intelligence major at University of Toronto. Her research interests include deep learning, model compression and generative modelling. She has been working under supervision of Prof. Nicolas Papernot at Vector Institute and University of Toronto since May 2021. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
