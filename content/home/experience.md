@@ -41,7 +41,7 @@ experience:
     company_logo: 
     location: Markham, Ontario, Canada
     date_start: '2020-09-14'
-    date_end: '2022-09-30'
+    date_end: '2021-09-30'
     description: Conduct research on neural network quantization and AutoML. 
   
   
@@ -51,7 +51,7 @@ experience:
     company_logo: 
     location: Toronto, Ontario, Canada
     date_start: '2020-05-01'
-    date_end: '2022-08-30'
+    date_end: '2020-08-30'
     description: Create reports for analyzing trends in AI technology development. 
 
 design:
